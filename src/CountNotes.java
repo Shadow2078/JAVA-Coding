@@ -7,7 +7,6 @@ public class CountNotes {
         int money=scanner.nextInt();
        int totalNoofNotes;
        if(money%5==0){
-           x2+4x+4
 
        }
     }v
